@@ -13,6 +13,7 @@ $estado = $_GET["est"];
 $area = $_GET["area"];
 $ambiente = $_GET["ambiente"];
 
+//Variables no de Select, sino de la Tabla que llama al detalle....
 $casot = $_GET["caso"];
 $prioridadt = $_GET["prioridad"];
 $aplicativot = $_GET["aplit"];
